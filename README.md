@@ -1,2 +1,1 @@
-# Smart Bank App
- a smart python bank bot based on telegram
+a base for making telegram bots in python
